@@ -1,4 +1,4 @@
-# Ranadom Background Color Changer.
+# Random Background Color Changer.
 
 - A simple JavaScript project that generates random background colors at regular intervals and stops the color change when button is clicked.
 

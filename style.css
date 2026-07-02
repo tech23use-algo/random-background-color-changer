@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#container {
+    height: 100px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.button {
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+#form {
+    height: 220px;
+    border-radius: 20px;
+    text-align: center;
+    border: 2px solid black;
+}

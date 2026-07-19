@@ -2,6 +2,10 @@
 
 - A simple JavaScript project that generates random background colors at regular intervals and stops the color change when button is clicked.
 
+## Live Demo
+
+https://tech23use-algo.github.io/random-background-color-changer/
+
 ## Technologies Used
 
 - HTML
